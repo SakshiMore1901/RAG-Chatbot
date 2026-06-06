@@ -1,0 +1,29 @@
+Q: How can I place an order?
+A: Orders can be placed directly through our website.
+
+Q: Can I cancel my order?
+A: Orders can be cancelled within 24 hours of placement.
+
+Q: How can I check my order status?
+A: Order status can be checked in your account dashboard.
+
+Q: What happens after I place an order?
+A: You will receive an order confirmation email.
+
+Q: Can I modify my order after placing it?
+A: Orders can be modified before they are shipped.
+
+Q: What if I entered the wrong address?
+A: Contact support immediately to update the address.
+
+Q: Why was my order cancelled?
+A: Orders may be cancelled due to payment issues or stock shortages.
+
+Q: Can I order without creating an account?
+A: Yes, guest checkout is available.
+
+Q: How will I know my order shipped?
+A: You will receive a shipping confirmation email.
+
+Q: What if an item is out of stock?
+A: Out-of-stock items will be indicated on the product page.

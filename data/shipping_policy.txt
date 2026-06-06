@@ -1,0 +1,29 @@
+Q: How long does shipping take?
+A: Standard shipping takes 3-5 business days.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to selected countries worldwide.
+
+Q: How much does shipping cost?
+A: Shipping costs depend on the delivery location and order weight.
+
+Q: How can I track my order?
+A: Once your order ships, you will receive a tracking number by email.
+
+Q: What courier services do you use?
+A: We partner with major courier services depending on your location.
+
+Q: Can I change my shipping address?
+A: Shipping addresses can be updated within 24 hours of placing the order.
+
+Q: Do you offer express shipping?
+A: Yes, express shipping options are available at checkout.
+
+Q: What happens if my package is delayed?
+A: Delivery delays can occur due to weather or logistics issues.
+
+Q: Do you ship on weekends?
+A: Orders are typically shipped on business days only.
+
+Q: What if my package is lost?
+A: Please contact customer support if your package appears lost.

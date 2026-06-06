@@ -1,0 +1,29 @@
+Q: What payment methods do you accept?
+A: We accept credit cards, debit cards, and PayPal.
+
+Q: Is my payment information secure?
+A: Yes, payments are processed through encrypted gateways.
+
+Q: Can I pay using PayPal?
+A: Yes, PayPal payments are supported.
+
+Q: Do you accept cash on delivery?
+A: Cash on delivery is available in selected regions.
+
+Q: Can I split payments?
+A: Some payment providers offer installment plans.
+
+Q: What currencies do you accept?
+A: Payments are processed in major international currencies.
+
+Q: Why was my payment declined?
+A: Payments may be declined due to bank security checks.
+
+Q: When will my card be charged?
+A: Your card will be charged once the order is confirmed.
+
+Q: Are there any additional payment fees?
+A: Additional fees may apply depending on payment method.
+
+Q: Can I use discount codes during checkout?
+A: Yes, discount codes can be applied before payment.
